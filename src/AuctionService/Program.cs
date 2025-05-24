@@ -1,4 +1,4 @@
-clearusing AuctionService.Consumers;
+using AuctionService.Consumers;
 using AuctionService.Data;
 using AuctionService.Services;
 using MassTransit;
